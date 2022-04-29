@@ -4,6 +4,8 @@ import requests
 import sys
 import time
 
+sys.path.append('../../Software/Python/')
+sys.path.append('../../Software/Python/grove_rgb_lcd')
 sys.path.append('/home/pi/Dexter/GrovePi/Software/Python')
 
 #import grovepi
